@@ -2,7 +2,7 @@
 
 ---
 
-# Principal Developer
+## Principal Developer
 
 <aside>
 🧾 Business oriented high-performer leading engineering teams for 15 years. Building architecture, mentoring people, coding with a strong focus on a delivery.
