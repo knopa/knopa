@@ -1,50 +1,34 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/engineering-light.svg">
-  <img alt="From business problem to production." src="./assets/engineering-light.svg" width="100%">
+  <img alt="Complex problems. Useful software." src="./assets/engineering-light.svg" width="100%">
 </picture>
 
-# Serhii Slepokurov
+# Hi, I'm Serhii Slepokurov
 
-**Principal Developer | Software Architecture | Applied AI**
+**Principal Developer · Full-Stack Engineer · Applied AI**
 
-Business-focused software engineering across logistics, sales automation, and customer operations. Experience spans software architecture, hands-on development, engineering leadership, and delivery.
+Usually somewhere between an API, a browser tab, and a production trace.
 
-## Experience
+I work across backend systems, web interfaces, and cloud infrastructure, with **17+ years** of software engineering experience across the **US, Europe, and MENA**. My favorite part is connecting the pieces into software that makes someone's daily work easier.
 
-- **15+ years** in software development.
-- **50+ applications** released.
-- Experience across **the US, Europe, and MENA**.
+## What keeps me curious
 
-## Selected business impact
+- **Architecture that holds up in production.** APIs, integrations, background processing, and the details that make systems dependable.
+- **AI with a useful job to do.** Workflow automation, conversation analysis, structured evaluation, and human review where it matters.
+- **The whole product.** From data models to the interface people use, with an interest in logistics, payments, commerce, and developer tools.
 
-*Anonymized examples from confidential projects.*
+## Technical toolkit
 
-### Logistics operations
+- **Backend:** C#, .NET, ASP.NET Core, Node.js, REST APIs, microservices.
+- **Frontend:** TypeScript, JavaScript, Angular, React.
+- **Cloud and data:** Azure, AWS, Docker, SQL Server, PostgreSQL, Redis.
+- **Applied AI:** OpenAI API, Anthropic API, large language models (LLMs), generative AI, workflow automation.
+- **Engineering practice:** software architecture, CI/CD, automated testing, observability, production diagnostics, mentoring.
 
-Shipment management, billing, performance reporting, and compensation workflows in a shared platform, connecting day-to-day execution with financial visibility.
-
-### Sales automation
-
-Freight opportunities become personalized email outreach and controlled follow-ups. Reply classification, refusal handling, and human takeover keep automation aligned with ongoing customer conversations.
-
-### Quality assurance and coaching
-
-Customer calls become structured evaluations, recurring objection insights, and specific coaching priorities. Managers can review patterns and focus on conversations that need attention.
-
-### Business communications
-
-Email sending, replies, signatures, and conversation history connect directly to business workflows, preserving context between automated processes and human follow-up.
-
-## Technical skills
-
-- **Backend and architecture:** C#, .NET, ASP.NET Core, REST APIs, microservices, system integration.
-- **Frontend:** Angular, TypeScript.
-- **Data and cloud:** Microsoft Azure, SQL Server, PostgreSQL, Redis, Docker.
-- **AI and automation:** large language models (LLMs), generative AI, workflow automation, structured evaluation, guardrails.
-- **Delivery and reliability:** CI/CD, automated testing, observability, production diagnostics.
+**My default:** understand the workflow, make the trade-offs explicit, and keep the result maintainable.
 
 ---
 
-[Connect on LinkedIn](https://www.linkedin.com/in/slepokurov)
+Much of my work lives in private repositories. For the career story, project experience, and a conversation: **[find me on LinkedIn](https://www.linkedin.com/in/slepokurov/)**.
 
