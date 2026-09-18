@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">From business problem to production.</title>
+  <desc id="desc">A restrained engineering blueprint with blue typography and three connected architectural blocks.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#253449" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="#111c2c"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect x="48" y="48" width="48" height="5" fill="#79b6ff"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">
+    <text x="48" y="139" fill="#e8edf4">From business problem</text>
+    <text x="48" y="215" fill="#79b6ff">to production.</text>
+  </g>
+  <g fill="none" stroke="#5d7796" stroke-width="2">
+    <path d="M960 112H1072V224"/>
+    <path d="M944 168H1056"/>
+    <rect x="912" y="80" width="64" height="64"/>
+    <rect x="912" y="192" width="64" height="64"/>
+  </g>
+  <rect x="1040" y="144" width="64" height="64" fill="#79b6ff"/>
+  <path d="M912 288H1104" fill="none" stroke="#5d7796" stroke-width="2"/>
+  <path d="M912 282V294M1104 282V294" fill="none" stroke="#5d7796" stroke-width="2"/>
+</svg>
