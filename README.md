@@ -5,10 +5,10 @@
 I work across .NET backends, web interfaces, and cloud infrastructure. **17+ years** of software engineering across the **US, Europe, and MENA**, with plenty of time spent following a problem across those boundaries.
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/engineering-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="./assets/engineering-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-dark.svg">
-  <img alt="The arrows are the easy part. An annotated request → work → result sketch asks: what if it runs twice, did the work happen, and where does a person step in?" src="./assets/engineering-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/field-notes-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="./assets/field-notes-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/field-notes-dark.svg">
+  <img alt="The arrows are the easy part. An annotated request → work → result sketch asks: what if it runs twice, did the work happen, and where does a person step in?" src="./assets/field-notes-light.svg" width="100%">
 </picture>
 
 ## Notes from between the boxes
