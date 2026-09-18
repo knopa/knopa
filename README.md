@@ -1,31 +1,62 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/name-in-motion-dark-mobile-still.svg">
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/name-in-motion-light-mobile-still.svg">
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/name-in-motion-dark-still.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/name-in-motion-light-still.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/name-in-motion-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="./assets/name-in-motion-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/name-in-motion-dark.svg">
-  <img alt="Serhii Slepokurov. A little bug borrows the dot of an i, dodges a cursor, and slips back into place." src="./assets/name-in-motion-light.svg" width="100%">
-</picture>
+<h1 align="center">Serhii Slepokurov</h1>
 
-<br>
+<p align="center">
+  <strong>Principal Developer · Full-Stack Engineer · Applied AI</strong>
+</p>
 
-**Principal Developer · Full-Stack Engineer · Applied AI**
+<p align="center">
+  <code>{ backend }</code> &nbsp;×&nbsp;
+  <code>[ frontend ]</code> &nbsp;×&nbsp;
+  <code>✦ AI</code>
+</p>
 
-I'm **Serhii Slepokurov**. I work across .NET backends, web interfaces, cloud infrastructure, and AI workflows. **17+ years** of software engineering across the **US, Europe, and MENA**.
+<p align="center">
+  <strong>17+ years</strong> of software engineering<br>
+  US &nbsp;·&nbsp; Europe &nbsp;·&nbsp; MENA
+</p>
 
-`C#` `.NET` `TypeScript` `Angular` `React` `Azure` `Applied AI`
+<p align="center">
+  <a href="https://www.linkedin.com/in/slepokurov/"><strong>LinkedIn ↗</strong></a>
+</p>
 
-Most of my production work is private. **[Career & experience ↗](https://www.linkedin.com/in/slepokurov/)**
+---
+
+I work across the stack: the interface someone clicks, the API behind it, and the systems that keep it running. My background is in applied mathematics; my work spans web applications, cloud infrastructure, and AI workflows.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>⌘ &nbsp; Behind the interface</strong><br><br>
+      C# · .NET · ASP.NET Core · Node.js<br>
+      REST APIs · microservices
+    </td>
+    <td width="50%" valign="top">
+      <strong>◫ &nbsp; On the screen</strong><br><br>
+      TypeScript · JavaScript<br>
+      Angular · React
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>⌁ &nbsp; Under the hood</strong><br><br>
+      Azure · AWS · Docker<br>
+      SQL Server · PostgreSQL · Redis
+    </td>
+    <td width="50%" valign="top">
+      <strong>✦ &nbsp; Applied AI</strong><br><br>
+      OpenAI API · Anthropic API<br>
+      LLMs · generative AI · automation
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary>Tools &amp; technologies</summary>
+<summary><strong>＋ The engineering underneath</strong></summary>
 
-**Backend** · C# / .NET / ASP.NET Core / Node.js / REST APIs / microservices<br>
-**Frontend** · TypeScript / JavaScript / Angular / React<br>
-**Cloud & data** · Azure / AWS / Docker / SQL Server / PostgreSQL / Redis<br>
-**Applied AI** · OpenAI API / Anthropic API / large language models (LLMs) / generative AI / workflow automation<br>
-**Practice** · Architecture / CI/CD / automated testing / observability / mentoring
+Software architecture · CI/CD · automated testing · observability · production diagnostics · mentoring.
 
 </details>
+
+---
+
+<sub>↳ Most of my production work lives in private repositories. Career details and experience are on <a href="https://www.linkedin.com/in/slepokurov/">LinkedIn ↗</a>.</sub>
