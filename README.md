@@ -1,48 +1,22 @@
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/continuity-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="./assets/continuity-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/continuity-dark.svg">
+  <img alt="Continuity — a mathematical knot traced in fine green and copper strands." src="./assets/continuity-light.svg" width="100%">
+</picture>
+
+<sub>Continuity · (2, 3) torus knot · <a href="./tools/draw-knot.py">Drawn with code ↗</a></sub>
+
 # Serhii Slepokurov
 
 **Principal Developer · Full-Stack Engineer · Applied AI**
 
-I work across .NET backends, web interfaces, and cloud infrastructure. **17+ years** of software engineering across the **US, Europe, and MENA**, with plenty of time spent following a problem across those boundaries.
+Applied mathematics by education. Software engineering for **17+ years**, across the **US, Europe, and MENA**. My work spans .NET backends, web interfaces, cloud infrastructure, and AI in production workflows.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/field-notes-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="./assets/field-notes-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/field-notes-dark.svg">
-  <img alt="The arrows are the easy part. An annotated request → work → result sketch asks: what if it runs twice, did the work happen, and where does a person step in?" src="./assets/field-notes-light.svg" width="100%">
-</picture>
+**Backend** · C# / .NET / ASP.NET Core / Node.js / REST APIs / microservices<br>
+**Frontend** · TypeScript / JavaScript / Angular / React<br>
+**Cloud & data** · Azure / AWS / Docker / SQL Server / PostgreSQL / Redis<br>
+**Applied AI** · OpenAI API / Anthropic API / LLMs / workflow automation<br>
+**Practice** · Architecture / CI/CD / automated testing / observability / mentoring
 
-## Notes from between the boxes
-
-<details>
-<summary><b>01 / “200 OK.” Did the work happen?</b></summary>
-
-A successful HTTP response can still contain a failed business operation. I follow the request through the integration and check the result that the person using the software actually needed.
-
-</details>
-
-<details>
-<summary><b>02 / What does “try again” actually repeat?</b></summary>
-
-A retry can mean a second email or the same operation twice. I look for idempotency, ordering, shared state, and a way to recover without guessing.
-
-</details>
-
-<details>
-<summary><b>03 / Where should automation stop?</b></summary>
-
-An AI draft can be fluent and still be the wrong next move. Conversation context, a refusal, or a person already handling the conversation should change what happens next. Evaluation and human review belong in the workflow.
-
-</details>
-
-## Working materials
-
-- **Backend:** C#, .NET, ASP.NET Core, Node.js, REST APIs, microservices.
-- **Frontend:** TypeScript, JavaScript, Angular, React.
-- **Cloud and data:** Azure, AWS, Docker, SQL Server, PostgreSQL, Redis.
-- **Applied AI:** OpenAI API, Anthropic API, large language models (LLMs), generative AI, workflow automation.
-- **Engineering practice:** software architecture, CI/CD, automated testing, observability, production diagnostics, mentoring.
-
----
-
-Much of my production work lives in private repositories. More about the projects and career: **[LinkedIn](https://www.linkedin.com/in/slepokurov/)**.
-
+Most of my production work is private. **[Career & experience ↗](https://www.linkedin.com/in/slepokurov/)**
