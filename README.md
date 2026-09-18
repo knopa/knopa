@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/slepokurov/"><strong>LinkedIn ↗</strong></a>
+  <a href="https://www.linkedin.com/in/slepokurov/"><strong>LinkedIn ↗︎</strong></a>
 </p>
 
 ---
 
 I work across the stack: the interface someone clicks, the API behind it, and the systems that keep it running. My background is in applied mathematics; my work spans web applications, cloud infrastructure, and AI workflows.
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <strong>⌘ &nbsp; Behind the interface</strong><br><br>
@@ -59,4 +59,4 @@ Software architecture · CI/CD · automated testing · observability · producti
 
 ---
 
-<sub>↳ Most of my production work lives in private repositories. Career details and experience are on <a href="https://www.linkedin.com/in/slepokurov/">LinkedIn ↗</a>.</sub>
+<sub>↳ Most of my production work lives in private repositories. Career details and experience are on <a href="https://www.linkedin.com/in/slepokurov/">LinkedIn ↗︎</a>.</sub>
