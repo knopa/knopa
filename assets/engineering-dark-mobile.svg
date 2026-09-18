@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="730" viewBox="0 0 620 730" role="img" aria-labelledby="title desc">
   <title id="title">knopa — There’s a whole system behind that click.</title>
   <desc id="desc">Serhii Slepokurov’s engineering workbench: a coral k keycap connected by a looping green cable to a code window, with a small AI chip alongside it.</desc>
   <style>
@@ -7,23 +7,19 @@
     .mono { font-family: Consolas, 'Liberation Mono', monospace; }
     @media (prefers-reduced-motion: reduce) { .signal { display: none; } }
   </style>
-  <rect width="1200" height="490" rx="22" fill="#f5f1e8"/>
+  <rect width="620" height="730" rx="22" fill="#17231f"/>
 
-  <path d="M48 57h22" stroke="#e4653d" stroke-width="4"/>
-  <text x="83" y="63" class="mono" font-size="17" letter-spacing="2" fill="#59655d">SERHII SLEPOKUROV</text>
-  <text x="40" y="242" class="wordmark" font-size="190" letter-spacing="-13" fill="#232a26">knopa</text>
-  <rect x="642" y="224" width="42" height="17" fill="#e4653d"/>
-  <text x="50" y="319" class="sans" font-size="33" fill="#232a26">There’s a whole system</text>
-  <text x="50" y="362" class="sans" font-size="33" fill="#232a26">behind that click.</text>
-  <path d="M51 390h474" stroke="#d4d8c9" stroke-width="2"/>
-  <text x="51" y="428" class="mono" font-size="17" fill="#59655d">BACKEND / FRONTEND / APPLIED AI</text>
-  <g transform="translate(630 6)">
+  <text x="34" y="44" class="mono" font-size="24" letter-spacing="2" fill="#b0bdab">SERHII SLEPOKUROV</text>
+  <text x="27" y="189" class="wordmark" font-size="180" letter-spacing="-12" fill="#f1f2df">knopa</text>
+  <rect x="574" y="173" width="23" height="15" fill="#ff956c"/>
+  <text x="34" y="266" class="sans" font-size="28" fill="#f1f2df">There’s a whole system behind that click.</text>
+  <g transform="translate(29 274) scale(.95)">
   <g stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="337" cy="211" r="187" fill="#e8ecdb"/>
-    <circle cx="337" cy="211" r="219" fill="none" stroke="#d4d8c9" stroke-dasharray="2 12"/>
-    <path d="M123 95v20m-10-10h20M532 327v20m-10-10h20" stroke="#59655d" stroke-width="2"/>
+    <circle cx="337" cy="211" r="187" fill="#253c30"/>
+    <circle cx="337" cy="211" r="219" fill="none" stroke="#3b5145" stroke-dasharray="2 12"/>
+    <path d="M123 95v20m-10-10h20M532 327v20m-10-10h20" stroke="#b0bdab" stroke-width="2"/>
     <path d="M480 59l6 16 17 6-17 6-6 17-6-17-16-6 16-6z" fill="#bedb7a" stroke="#263b2d" stroke-width="2"/>
-    <ellipse cx="328" cy="390" rx="163" ry="31" fill="#d4d8c9" opacity=".55"/>
+    <ellipse cx="328" cy="390" rx="163" ry="31" fill="#3b5145" opacity=".55"/>
     <path d="M334 375v35c0 28-28 38-64 38H146c-46 0-51-63-4-63h41c41 0 40-55 0-55h-38" fill="none" stroke="#233c30" stroke-width="15"/>
     <path d="M334 375v35c0 28-28 38-64 38H146c-46 0-51-63-4-63h41c41 0 40-55 0-55h-38" fill="none" stroke="#a9c974" stroke-width="9"/>
     <circle class="signal" r="4" fill="#fffde6">
@@ -31,7 +27,7 @@
     </circle>
     <g stroke="#24382e" stroke-width="3">
       <path d="M139 261l191-110 191 110v29L330 401 139 290z" fill="#c5d1b7"/>
-      <path d="M139 261l191 110 191-110-191-110z" fill="#fffdf4"/>
+      <path d="M139 261l191 110 191-110-191-110z" fill="#dce6cf"/>
       <path d="M330 371v30" fill="none"/>
       <path d="M168 202l162-94 162 94v67l-162 94-162-94z" fill="#e4613c"/>
       <path d="M330 296l162-94v67l-162 94z" fill="#bb472b"/>
@@ -43,7 +39,7 @@
     <text transform="matrix(.866 .5 -.866 .5 314 236)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="147" font-weight="900" fill="#713721">k</text>
     <g transform="rotate(-8 97 304)">
       <rect x="37" y="255" width="131" height="104" rx="12" fill="#233c30"/>
-      <rect x="31" y="248" width="131" height="104" rx="12" fill="#fffdf4" stroke="#24382e" stroke-width="3"/>
+      <rect x="31" y="248" width="131" height="104" rx="12" fill="#dce6cf" stroke="#24382e" stroke-width="3"/>
       <path d="M32 273h129" stroke="#24382e" stroke-width="2"/>
       <circle cx="46" cy="261" r="3" fill="#e4653d"/>
       <circle cx="57" cy="261" r="3" fill="#9eb777"/>
